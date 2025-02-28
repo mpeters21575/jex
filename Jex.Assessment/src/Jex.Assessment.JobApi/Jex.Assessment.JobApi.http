@@ -1,0 +1,6 @@
+@Jex.Assessment.JobApi_HostAddress = http://localhost:5223
+
+GET {{Jex.Assessment.JobApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
