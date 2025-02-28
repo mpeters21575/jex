@@ -8,10 +8,10 @@ Jex.Assessment is a **Job API** built with **.NET 9**, designed to manage job va
 ## 📌 Features & User Stories  
 
 ### 🔹 **Companies Management**  
-- ✅ As an **Admin**, I want to **create a company**, so that it can post job vacancies.  
-- ✅ As an **Admin**, I want to **edit company details**, so that I can keep information up to date.  
-- ✅ As an **Admin**, I want to **delete a company**, so that I can remove unused records.  
-- ✅ As an **Admin**, I want to **view all companies that have active job listings**, so that I can manage them efficiently.  
+- ✅ As an **Backoffice Employee**, I want to **create a company**, so that it can post job vacancies.  
+- ✅ As an **Backoffice Employee**, I want to **edit company details**, so that I can keep information up to date.  
+- ✅ As an **Backoffice Employee**, I want to **delete a company**, so that I can remove unused records.  
+- ✅ As an **Job Seeker**, I want to **view all companies that have active job listings**, so that I can manage them efficiently.  
 
 ### 🔹 **Job Vacancies Management**  
 - ✅ As a **Recruiter**, I want to **create a job vacancy**, so that I can attract potential candidates.  
