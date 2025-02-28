@@ -1,0 +1,14 @@
+global using System;
+global using System.Collections.Generic;
+global using System.Linq;
+global using System.Threading;
+global using System.Threading.Tasks;
+global using FluentValidation;
+global using MediatR;
+global using Jex.Assessment.JobApi.Features.JobVacancies;
+global using Jex.Assessment.JobApi.Features.Companies;
+global using Jex.Assessment.JobApi.Features.Companies.CreateCompany;
+global using Microsoft.EntityFrameworkCore;
+global using Microsoft.Extensions.DependencyInjection;
+global using Jex.Assessment.JobApi.Infrastructure; 
+global using Jex.Assessment.JobApi.Infrastructure.Behaviours;
